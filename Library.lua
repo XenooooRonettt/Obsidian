@@ -398,7 +398,7 @@ local Templates = {
         ShowCustomCursor = true,
 
         Font = Enum.Font.Code,
-        ToggleKeybind = Enum.KeyCode.RightControl,
+        ToggleKeybind = Enum.KeyCode.RightShift,
 
         ShowMobileButtons = true,
         MobileButtonsSide = "Left",
