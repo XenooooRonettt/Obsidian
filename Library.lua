@@ -249,7 +249,7 @@ local Library = {
     Options = Options,
 
     --// Options \\--
-    ToggleKeybind = Enum.KeyCode.RightControl,
+    ToggleKeybind = Enum.KeyCode.RightShift,
     ShowToggleFrameInKeybinds = true,
 
     NotifyOnError = false,
